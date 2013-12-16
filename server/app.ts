@@ -1,4 +1,4 @@
-/// <reference path="./DefinitelyTyped/express/express.d.ts"/>
+/// <reference path="./libs/DefinitelyTyped/express/express.d.ts"/>
 
 import http = require('http')
 import url  = require('url')
